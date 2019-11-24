@@ -1,4 +1,4 @@
-# DataQuest- Python for Data Science
+# DataQuest- Python for Data Science.
 
    # Mile Stones
    
